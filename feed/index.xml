@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>My CV</title>
+	<title>Bryan</title>
 	<atom:link href="https://bryanrp.github.io/my-web/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bryanrp.github.io/my-web</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 22 Mar 2022 14:28:34 +0000</lastBuildDate>
+	<description>a starfish</description>
+	<lastBuildDate>Wed, 23 Mar 2022 16:33:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
